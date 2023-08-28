@@ -1,0 +1,58 @@
+*{
+   padding: 0px;
+   margin: 0px;
+   box-sizing: border-box;
+   background-color: #F99B7D;
+}
+
+img{
+    object-fit: cover;
+} 
+.rk{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.r{
+    height: 400px;
+    width: 400px;
+    background: url(rajinikanth.webp);
+    background-size: cover;
+    background-position: -90px 40px ;
+    background-repeat: no-repeat;
+}
+.k{
+    height: 400px;
+    width: 400px;
+    background: url(kamal.jpg);
+    background-size: cover; 
+    background-position: -160px 70px;
+    background-repeat: no-repeat;
+}
+
+.vs{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.vijay {
+    height: 400px;
+    width: 400px;
+    background: url(vijay.jpg);
+    background-size: cover;
+    background-position: -200px 35px;
+}
+
+.surya {
+    height: 400px;
+    width: 400px;
+    background:url(surya.jpg);
+    background-size: cover;
+    background-position: -400px 20px;
+}
+.heading{
+    text-align: center;
+    color: #8bacaa ;
+    font-size: larger;
+}
+

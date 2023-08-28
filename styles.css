@@ -1,0 +1,156 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: #E6FFFD;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    font-size: 40px;
+}
+.img{
+    overflow: hidden;
+}
+.rk{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.r{
+    height: 400px;
+    width: 550px;
+    background: url(rajinikanth.webp);
+    background-size: cover;
+    background-position: -90px 40px;
+    background-repeat: no-repeat;
+    margin-left: 25px;
+}
+.k{
+    height: 400px;
+    width: 550px;
+    background: url(kamal.jpg);
+    background-size: cover;
+    background-position: -90px 40px;
+    background-repeat: no-repeat;
+    margin-right: 25px;
+}
+.va{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.v{
+    height: 400px;
+    width: 550px;
+    background: url(vijay.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0px 20px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.ak{
+    height: 350px;
+    width: 550px;
+    background: url(ajith-kumar-1.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: -40px -20px;
+    margin-right: 25px;
+    margin-top: 20px;
+}
+.aname{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 40px;
+    padding-top: 20px;
+}
+.vaname{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 40px;
+    padding-top: 20px;   
+}
+.rajinikanth{
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 25px;
+    display: flex;
+}
+.rtitle{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    padding-top: 30px;
+    margin-left: 180px;
+    font-size: 40px;
+}
+.rpara{
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 25px;
+}
+.floatr{
+    background: url(rajinifloat.jpg);
+    height: 600px;
+    width: 400px;
+    background-position: -190px -50px;
+    float: left;
+    padding: 40px;
+    margin-right: 20px;
+}
+.ktitle{
+    margin-left: 200px;
+    font-size: 40px;
+    padding-top: 30px;
+}
+.kfloat{
+    height: 600px;
+    width: 400px;
+    background: url(kfloat.jpg);
+    margin-left: 200px;
+    background-position: -190px -115px;
+    background-repeat: no-repeat;
+    float: left;
+    margin-right: 20px;
+    padding: 40px;
+    margin-top: 20px;
+}
+.vtitle{
+    margin-left: 200px;
+    font-size: 40px;
+    padding-top: 30px;
+}
+.floatv{
+    background: url(vfloat.jpg);
+    height: 600px;
+    width: 400px;
+    margin-left: 200px;
+    background-position: -200px -60px;
+    background-repeat: no-repeat;
+    float: left;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.atitle{
+    margin-left: 200px;
+        font-size: 40px;
+        padding-top: 30px;
+
+}
+.afloat{
+    background: url(afloat.jpg);
+    height:400px;
+    width: 350px;
+    background-repeat: no-repeat;
+    margin-left: 200px;
+    float: left;
+    margin-top: 20px;
+    margin-right: 20px;
+}
